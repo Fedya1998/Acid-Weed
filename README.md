@@ -1,4 +1,4 @@
-## Acid & Weed
+## Acid & Weed (Kolya & Fedya) :v:
 Try to define your behaviour under acid and weed. To take just a little bit of it:
 ```
 cd acid
