@@ -1,0 +1,9 @@
+*.o
+*.log
+.*
+!.travis.yml
+!.gitignore
+acid/acid
+weed/weed
+weed/weed_understandable.asm
+weed/weed_commented.asm
